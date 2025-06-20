@@ -1,2 +1,2 @@
 # xianxiaSupport4Silent
-adds silent gear support to some xianxia stuff
+adds silent gear support for some Cultivator's Legacy Modpack stuff
